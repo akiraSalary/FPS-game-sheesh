@@ -1,11 +1,11 @@
-# FPS-game-sheesh
-god daym good fps game
+#game
+ fps game
 
 
-// My first FirstPersonShooter game project on Unity :)
+// My first FirstPersonShooter game project on Unity 
 
 
-Simple game, a room with few enemies, you can run and shoot em) cooked some lighting and sounds on top of it
+Simple game, a room with few enemies, you can run and shoot 
 
 
 YouTube Preview
