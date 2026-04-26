@@ -15,5 +15,9 @@ Simple game, a room with few enemies, you can run and shoot
 
 YouTube Preview
 
+https://www.youtube.com/watch?v=rkxwjLUyIZI
 
+
+
+Important note: game was made following guide of youtube creator Unity Unlocked. Game will be heavily modifyed and will get new movemenet features and enviroment changes. This video represents simle use and understanding of Unity game developing feature and not represents FINALE RESAULT PRODUCT.
 
